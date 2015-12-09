@@ -1,0 +1,8 @@
+Ipython Notebook server:
+http://ec2-52-6-132-163.compute-1.amazonaws.com:8888/tree/Capstone
+
+Terminal Login:
+ssh -X -i AWSTest.pem ec2-52-6-132-163.compute-1.amazonaws.com
+
+s3 bucket:
+s3://s3test-boxer/data
